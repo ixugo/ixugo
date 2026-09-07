@@ -58,6 +58,15 @@ I'm a software engineer who genuinely loves **React, TypeScript, and Go** — no
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+## Learning
+
+Always learning — currently deepening Kubernetes skills.
+
+<details>
+  <summary>Certificate</summary>
+  <img src="k8s.jpg" width="360" alt="Kubernetes certificate"/>
+</details>
+
 ## Writing
 
 I share what I learn on my blog: **[blog.golang.space](https://blog.golang.space/)** — mostly Go, architecture, and engineering practice.
