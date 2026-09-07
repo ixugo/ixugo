@@ -20,6 +20,7 @@ I'm a software engineer who genuinely loves **React, TypeScript, and Go** — no
 - Deep hands-on experience with **React + TypeScript**, building performant, maintainable frontends.
 - Actively exploring **AI engineering** — integrating LLMs into real products and workflows.
 - Cross-platform mobile/desktop experience with **Flutter**.
+- Daily work focuses on **streaming media systems** — GB28181, RTMP, RTSP, HLS, WebRTC, and FFmpeg.
 - **I hate repetitive work.** When I see a task done twice, I build a tool or pipeline to automate it. Most of my side projects started exactly this way.
 - Committed to **code quality and reusable design** — and I learn something new every single day.
 
@@ -48,6 +49,14 @@ I'm a software engineer who genuinely loves **React, TypeScript, and Go** — no
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
+**Streaming & Media**
+![GB28181](https://img.shields.io/badge/GB28181-1F2937?style=flat-square)
+![RTMP](https://img.shields.io/badge/RTMP-1F2937?style=flat-square)
+![RTSP](https://img.shields.io/badge/RTSP-1F2937?style=flat-square)
+![HLS](https://img.shields.io/badge/HLS-1F2937?style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-1F2937?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
 **Monitoring**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -60,7 +69,7 @@ I'm a software engineer who genuinely loves **React, TypeScript, and Go** — no
 
 ## Learning
 
-Always learning — currently deepening Kubernetes skills.
+Learning never stops — this Kubernetes certification is one milestone from the journey.
 
 <details>
   <summary>Certificate</summary>
