@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ixugo 👋</h1>
+<h1 align="center">Hi, I'm ixugo</h1>
 
 <p align="center">
   <strong>Go · React · TypeScript · Flutter · AI</strong><br/>
@@ -12,25 +12,25 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a software engineer who genuinely loves **React, TypeScript, and Go** — not just as tools on a résumé, but as the technologies I reach for every day and build real things with.
 
-- 🐹 **7+ years of professional Go experience** designing and shipping backend systems, from domain-driven architectures to high-concurrency services.
-- ⚛️ Deep hands-on experience with **React + TypeScript**, building performant, maintainable frontends.
-- 🤖 Actively exploring **AI engineering** — integrating LLMs into real products and workflows.
-- 📱 Cross-platform mobile/desktop experience with **Flutter**.
-- 🔧 **I hate repetitive work.** When I see a task done twice, I build a tool or pipeline to automate it. Most of my side projects started exactly this way.
-- ♻️ Committed to **code quality and reusable design** — and I learn something new every single day.
+- **7+ years of professional Go experience** designing and shipping backend systems, from domain-driven architectures to high-concurrency services.
+- Deep hands-on experience with **React + TypeScript**, building performant, maintainable frontends.
+- Actively exploring **AI engineering** — integrating LLMs into real products and workflows.
+- Cross-platform mobile/desktop experience with **Flutter**.
+- **I hate repetitive work.** When I see a task done twice, I build a tool or pipeline to automate it. Most of my side projects started exactly this way.
+- Committed to **code quality and reusable design** — and I learn something new every single day.
 
-## 🚀 Open Source
+## Open Source
 
 | Project | Description |
 | --- | --- |
 | [**gowvp/owl**](https://github.com/gowvp/owl) | Open-source video surveillance / streaming platform built with Go — live streaming, recording, playback, and device management. |
 | [**ixugo/goddd**](https://github.com/ixugo/goddd) | A practical Go project template for **Domain-Driven Design** — layered architecture, clean dependencies, ready for real production services. |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -46,21 +46,27 @@ I'm a software engineer who genuinely loves **React, TypeScript, and Go** — no
 
 **Mobile & Cross-platform**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Monitoring**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 **AI & Tooling**
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## ✍️ Writing
+## Writing
 
 I share what I learn on my blog: **[blog.golang.space](https://blog.golang.space/)** — mostly Go, architecture, and engineering practice.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ixugo&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixugo&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ixugo&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ixugo&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
