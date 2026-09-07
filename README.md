@@ -1,0 +1,70 @@
+<h1 align="center">Hi, I'm ixugo 👋</h1>
+
+<p align="center">
+  <strong>Go · React · TypeScript · Flutter · AI</strong><br/>
+  Software Engineer with <strong>7+ years</strong> of professional Go experience
+</p>
+
+<p align="center">
+  <a href="https://blog.golang.space/"><img src="https://img.shields.io/badge/Blog-blog.golang.space-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Blog"/></a>
+  <a href="https://github.com/ixugo?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Projects-3178C6?style=flat-square&logo=github&logoColor=white" alt="Open Source"/></a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a software engineer who genuinely loves **React, TypeScript, and Go** — not just as tools on a résumé, but as the technologies I reach for every day and build real things with.
+
+- 🐹 **7+ years of professional Go experience** designing and shipping backend systems, from domain-driven architectures to high-concurrency services.
+- ⚛️ Deep hands-on experience with **React + TypeScript**, building performant, maintainable frontends.
+- 🤖 Actively exploring **AI engineering** — integrating LLMs into real products and workflows.
+- 📱 Cross-platform mobile/desktop experience with **Flutter**.
+- 🔧 **I hate repetitive work.** When I see a task done twice, I build a tool or pipeline to automate it. Most of my side projects started exactly this way.
+- ♻️ Committed to **code quality and reusable design** — and I learn something new every single day.
+
+## 🚀 Open Source
+
+| Project | Description |
+| --- | --- |
+| [**gowvp/owl**](https://github.com/gowvp/owl) | Open-source video surveillance / streaming platform built with Go — live streaming, recording, playback, and device management. |
+| [**ixugo/goddd**](https://github.com/ixugo/goddd) | A practical Go project template for **Domain-Driven Design** — layered architecture, clean dependencies, ready for real production services. |
+
+## 🛠️ Tech Stack
+
+**Backend**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![NSQ](https://img.shields.io/badge/NSQ-000000?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Mobile & Cross-platform**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**AI & Tooling**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## ✍️ Writing
+
+I share what I learn on my blog: **[blog.golang.space](https://blog.golang.space/)** — mostly Go, architecture, and engineering practice.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ixugo&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixugo&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Automate the boring, design for reuse, learn every day."</i>
+</p>
