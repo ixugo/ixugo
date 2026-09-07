@@ -62,13 +62,6 @@ I'm a software engineer who genuinely loves **React, TypeScript, and Go** — no
 
 I share what I learn on my blog: **[blog.golang.space](https://blog.golang.space/)** — mostly Go, architecture, and engineering practice.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ixugo&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ixugo&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
 ---
 
 <p align="center">
